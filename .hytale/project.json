@@ -1,0 +1,10 @@
+{
+  "groupId": "me.maarten2000ha",
+  "artifactId": "hyciv",
+  "modName": "HyCiv",
+  "version": "1.0.0",
+  "buildSystem": "Gradle",
+  "language": "Kotlin",
+  "jarPath": "build/libs/hyciv-1.0.0.jar",
+  "buildTask": "shadowJar"
+}

@@ -1,0 +1,10 @@
+{
+  "Group": "me.maarten2000ha",
+  "Name": "HyCiv",
+  "Version": "1.0.0",
+  "Description": "A Hytale server mod",
+  "Authors": [{"Name": "maarten2000ha"}],
+  "Main": "me.maarten2000ha.hyciv.HyCivPlugin",
+  "LoadOrder": "POSTWORLD",
+  "IncludesAssetPack": true
+}
